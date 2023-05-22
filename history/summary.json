@@ -19,38 +19,42 @@
   },
   {
     "name": "E.BVCC",
-    "url": "https://e.bondagevalley.cc/status.php",
-    "icon": "https://icons.duckduckgo.com/ip3/e.bondagevalley.cc.ico",
+    "url": "$E_URL",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "e-bvcc",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "88.23%",
+    "uptimeDay": "88.23%",
+    "uptimeWeek": "88.23%",
+    "uptimeMonth": "88.23%",
+    "uptimeYear": "88.23%",
     "time": 921,
     "timeDay": 921,
     "timeWeek": 921,
     "timeMonth": 921,
     "timeYear": 921,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-22": 4
+    }
   },
   {
     "name": "F.BVCC",
-    "url": "https://f.bondagevalley.cc/status.php",
-    "icon": "https://icons.duckduckgo.com/ip3/f.bondagevalley.cc.ico",
+    "url": "$F_URL",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "f-bvcc",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "88.06%",
+    "uptimeDay": "88.06%",
+    "uptimeWeek": "88.06%",
+    "uptimeMonth": "88.06%",
+    "uptimeYear": "88.06%",
     "time": 461,
     "timeDay": 461,
     "timeWeek": 461,
     "timeMonth": 461,
     "timeYear": 461,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-22": 4
+    }
   }
 ]
