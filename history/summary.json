@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4971,
-    "timeDay": 4971,
-    "timeWeek": 4971,
-    "timeMonth": 4971,
-    "timeYear": 4971,
+    "time": 3326,
+    "timeDay": 3326,
+    "timeWeek": 3326,
+    "timeMonth": 3326,
+    "timeYear": 3326,
     "dailyMinutesDown": {}
   },
   {
@@ -22,19 +22,19 @@
     "url": "$E_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "e-bvcc",
-    "status": "down",
-    "uptime": "88.23%",
-    "uptimeDay": "88.23%",
-    "uptimeWeek": "88.23%",
-    "uptimeMonth": "88.23%",
-    "uptimeYear": "88.23%",
-    "time": 921,
-    "timeDay": 921,
-    "timeWeek": 921,
-    "timeMonth": 921,
-    "timeYear": 921,
+    "status": "up",
+    "uptime": "89.19%",
+    "uptimeDay": "89.19%",
+    "uptimeWeek": "89.19%",
+    "uptimeMonth": "89.19%",
+    "uptimeYear": "89.19%",
+    "time": 721,
+    "timeDay": 721,
+    "timeWeek": 721,
+    "timeMonth": 721,
+    "timeYear": 721,
     "dailyMinutesDown": {
-      "2023-05-22": 4
+      "2023-05-22": 5
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "$F_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "f-bvcc",
-    "status": "down",
-    "uptime": "88.06%",
-    "uptimeDay": "88.06%",
-    "uptimeWeek": "88.06%",
-    "uptimeMonth": "88.06%",
-    "uptimeYear": "88.06%",
-    "time": 461,
-    "timeDay": 461,
-    "timeWeek": 461,
-    "timeMonth": 461,
-    "timeYear": 461,
+    "status": "up",
+    "uptime": "84.13%",
+    "uptimeDay": "84.13%",
+    "uptimeWeek": "84.13%",
+    "uptimeMonth": "84.13%",
+    "uptimeYear": "84.13%",
+    "time": 450,
+    "timeDay": 450,
+    "timeWeek": 450,
+    "timeMonth": 450,
+    "timeYear": 450,
     "dailyMinutesDown": {
-      "2023-05-22": 4
+      "2023-05-22": 7
     }
   }
 ]
