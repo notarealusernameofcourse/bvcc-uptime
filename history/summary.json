@@ -1,23 +1,5 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
-    "slug": "google",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {}
-  },
-  {
     "name": "BVCC MAIN",
     "url": "https://bondagevalley.cc",
     "icon": "https://icons.duckduckgo.com/ip3/bondagevalley.cc.ico",
@@ -33,6 +15,42 @@
     "timeWeek": 4971,
     "timeMonth": 4971,
     "timeYear": 4971,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "E.BVCC",
+    "url": "https://e.bondagevalley.cc/status.php",
+    "icon": "https://icons.duckduckgo.com/ip3/e.bondagevalley.cc.ico",
+    "slug": "e-bvcc",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 921,
+    "timeDay": 921,
+    "timeWeek": 921,
+    "timeMonth": 921,
+    "timeYear": 921,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "F.BVCC",
+    "url": "https://f.bondagevalley.cc/status.php",
+    "icon": "https://icons.duckduckgo.com/ip3/f.bondagevalley.cc.ico",
+    "slug": "f-bvcc",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 461,
+    "timeDay": 461,
+    "timeWeek": 461,
+    "timeMonth": 461,
+    "timeYear": 461,
     "dailyMinutesDown": {}
   }
 ]
