@@ -7,6 +7,10 @@ sites:
     url: https://www.google.com
   - name: BVCC MAIN
     url: https://bondagevalley.cc
+  - name: E.BVCC
+    url: https://e.bondagevalley.cc/status.php
+  - name: F.BVCC
+    url: https://f.bondagevalley.cc/status.php
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
