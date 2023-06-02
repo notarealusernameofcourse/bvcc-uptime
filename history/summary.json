@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/bondagevalley.cc.ico",
     "slug": "bvcc-main",
     "status": "up",
-    "uptime": "92.01%",
+    "uptime": "92.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "92.01%",
-    "uptimeYear": "92.01%",
-    "time": 3769,
-    "timeDay": 1548,
-    "timeWeek": 1526,
-    "timeMonth": 3769,
-    "timeYear": 3769,
+    "uptimeMonth": "92.74%",
+    "uptimeYear": "92.74%",
+    "time": 3639,
+    "timeDay": 1039,
+    "timeWeek": 1477,
+    "timeMonth": 3639,
+    "timeYear": 3639,
     "dailyMinutesDown": {
       "2023-05-23": 397,
       "2023-05-22": 727
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
-    "time": 758,
-    "timeDay": 1487,
-    "timeWeek": 888,
-    "timeMonth": 758,
-    "timeYear": 758,
+    "time": 729,
+    "timeDay": 382,
+    "timeWeek": 863,
+    "timeMonth": 729,
+    "timeYear": 729,
     "dailyMinutesDown": {
       "2023-05-22": 5
     }
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 386,
-    "timeDay": 333,
-    "timeWeek": 387,
-    "timeMonth": 386,
-    "timeYear": 386,
+    "time": 380,
+    "timeDay": 308,
+    "timeWeek": 363,
+    "timeMonth": 380,
+    "timeYear": 380,
     "dailyMinutesDown": {
       "2023-05-22": 7
     }
