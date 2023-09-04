@@ -4,7 +4,7 @@
     "url": "https://bondagevalley.cc",
     "icon": "https://icons.duckduckgo.com/ip3/bondagevalley.cc.ico",
     "slug": "bvcc-main",
-    "status": "up",
+    "status": "down",
     "uptime": "9.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 3743,
     "timeYear": 3394,
     "dailyMinutesDown": {
-      "2023-09-04": 277,
+      "2023-09-04": 293,
       "2023-09-03": 1440,
       "2023-09-02": 1440,
       "2023-09-01": 1440,
@@ -132,7 +132,7 @@
     "timeMonth": 596,
     "timeYear": 960,
     "dailyMinutesDown": {
-      "2023-09-04": 277,
+      "2023-09-04": 293,
       "2023-09-03": 1440,
       "2023-09-02": 1440,
       "2023-09-01": 1440,
