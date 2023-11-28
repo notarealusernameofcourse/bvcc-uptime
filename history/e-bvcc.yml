@@ -1,7 +1,7 @@
 url: $E_URL
-status: up
-code: 200
-responseTime: 1280
-lastUpdated: 2023-11-28T03:00:09.112Z
+status: down
+code: 403
+responseTime: 86
+lastUpdated: 2023-11-28T06:49:59.569Z
 startTime: Mon May 22 2023 08:46:35 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
